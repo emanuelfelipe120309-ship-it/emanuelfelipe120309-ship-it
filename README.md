@@ -1,80 +1,102 @@
-# O Nerd | Manu
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div>
 
-Sou **Manu**, um jovem desenvolvedor de **13 anos**, apaixonado por tecnologia, sistemas e programação.  
-Tenho uma boa base em várias linguagens e gosto de entender **como tudo funciona por trás**, desde o código até o sistema operacional.
+###
 
-Estudo e pratico desenvolvimento web, programação geral, sistemas Linux e ambientes de desenvolvimento, sempre evoluindo com projetos pessoais e aprendizado constante.
+<h1 align="center">Emanuel Felipe</h1>
 
----
+###
 
-## Sobre o Nerd
+<p align="center">Olá, sou o Emanuel Felipe, conhecido online como O Nerd.<br><br>Tenho 13 anos e a tecnologia já faz parte da minha vida há tanto tempo que nem consigo lembrar quando tudo começou de verdade.<br>Acho que foi aos 8, quando ganhei meu primeiro computador antigo e passei semanas tentando entender por que certos jogos rodavam mais lentos que outros.<br>Desmontei pastas, mexi no registro do Windows, quebrei e consertei o sistema várias vezes — e ali descobri que o que mais me fascinava não era só jogar, mas entender como tudo funcionava por trás da tela.<br><br>Desde então, vivo com essa curiosidade que não desliga.<br>Já passei madrugadas inteiras debugando um código que, no fim, tinha apenas um ponto e vírgula faltando — e mesmo assim, quando a tela finalmente mostrou o resultado esperado, senti aquela satisfação silenciosa que só quem programa entende.<br>Recentemente montei em casa um projeto com Arduino e peças de som que reproduziam exatamente o que estava escrito na linha de código — tipo um "fala código". Mostrei pros meus amigos e a reação deles foi impagável; ali vi na prática como um pouco de código e hardware pode transformar uma ideia simples em algo que impressiona quem está de fora.<br><br>A curiosidade me move: seja otimizando um algoritmo até ele rodar duas vezes mais rápido, configurando um servidor do zero ou entendendo como um framework gerencia estado por baixo dos panos, sempre há algo novo para aprender — e é exatamente isso que me faz perder a noção do tempo enquanto código.<br><br>Se quiser trocar ideia sobre código, sistemas, projetos malucos ou até sobre aquele bug que está te tirando o sono, me encontra no Discord como onerd.dev.<br>No Instagram (@emanuelfelipe.dev) compartilho um pouco do que ando construindo e das pequenas vitórias do dia a dia.<br><br>Estou sempre aberto a colaborações e conversas interessantes.<br>Quem sabe a gente não cria algo legal juntos?</p>
 
--  Idade: 13 anos  
--  Desenvolvedor em formação  
--  Curioso, disciplinado e focado em aprender  
--  Gosto de explorar sistemas, código e tecnologia de verdade  
--  Primeira linguagem C++
+###
 
+<h1 align="center">Tecnologias</h1>
 
-##  Tecnologias
+###
 
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+<p align="center">Tecnologias com as quais trabalho e estudo<br><br>No front-end, domino HTML, CSS e JavaScript o suficiente para criar interfaces limpas, acessíveis e com interações que fluem naturalmente — sempre buscando aquele equilíbrio entre funcionalidade e elegância visual.<br><br>Para lógica mais robusta e back-end, Python e Java são minhas escolhas principais: estruturas claras, código legível e ferramentas que me permitem prototipar rápido ou escalar quando necessário.<br>Quando quero entender melhor o controle de memória ou precisar de performance crua, recorro ao C++ sem hesitar.<br><br>Tenho boa experiência com SQL — projetando schemas normalizados, escrevendo consultas eficientes e otimizando buscas que realmente fazem diferença em aplicações reais.<br><br>Meu ambiente de desenvolvimento gira em torno do VS Code, com Git e GitHub como aliados inseparáveis para versionamento e colaboração.<br>Me sinto completamente à vontade no Linux (inclusive com Kali Linux para explorar segurança) e domino o que preciso no Windows para projetos que exigem compatibilidade.<br><br>Além do código puro, gosto de unir software e hardware com Arduino em protótipos práticos, e uso Figma e Canva para dar vida visual aos projetos — porque uma boa ideia também merece ser apresentada com capricho.<br><br>Essas não são apenas ferramentas que “conheço”, mas sim as que escolhi porque me permitem transformar curiosidade em código funcional, eficiente e, quando possível, um pouco mais bonito que o necessário.<br>E o melhor de tudo: ainda tem um universo inteiro para explorar.</p>
 
----
+###
 
-##  Banco de dados
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" height="40" alt="discordjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+</div>
 
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white)
+###
 
----
+<div align="left">
+</div>
 
-## Sistemas
+###
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Kali Linux](https://img.shields.io/badge/Kali%20Linux-268BEE?style=flat&logo=kalilinux&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
+<h1 align="center">Programção e Design</h1>
 
----
+###
 
-##  Ferramentas 
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows8 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40" alt="google logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="40" alt="chrome logo"  />
+</div>
 
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white)
+###
 
----
+<h1 align="center">Social Media</h1>
 
-##  Design 
+###
 
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+</div>
 
----
+###
 
-##  Social
+<div align="center">
+  <img height="200" src="https://i.ibb.co/938C2Dqr/Captura-de-tela-2025-12-28-173159.png"  />
+</div>
 
-###  Instagram
-[![Instagram](https://img.shields.io/badge/Instagram-@emanuelfelipe.dev-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/emanuelfelipe.dev)
+###
 
-###  Discord Profile
-![Discord](https://img.shields.io/badge/Discord-emanuel.xz0-5865F2?style=flat&logo=discord&logoColor=white)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/emanuelfelipe120309-ship-it/emanuelfelipe120309-ship-it/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/emanuelfelipe120309-ship-it/emanuelfelipe120309-ship-it/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/emanuelfelipe120309-ship-it/emanuelfelipe120309-ship-it/output/pacman-contribution-graph.svg">
+</picture>
 
-
-
-##  QG Nerd 
-
-[![Discord](https://img.shields.io/badge/Discord-QG%20Nerd-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.gg/5JAzQvEF)
-
->  **QG Nerd** é um servidor focado em tecnologia, programação, estudos e troca de conhecimento entre devs e nerds da área.
-
-
-
-💡 *Sou curioso, aprendo rápido e busco entender como a tecnologia realmente funciona.*
+###
